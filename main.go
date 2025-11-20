@@ -57,4 +57,5 @@ func main() {
 		page++
 	}
 	log.Println("Everything works fine... ")
+	log.Println("Yep everything fine")
 }
